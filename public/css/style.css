@@ -1,0 +1,36 @@
+.hidden {
+  display: none;
+}
+.page-heading {
+  margin-top: 2rem;
+}
+
+.input-box {
+  margin-bottom: 1rem;
+  align-items: right;
+}
+
+.btn {
+  margin-top: 2rem;
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+.newscard {
+  margin: 0.5rem;
+}
+.news-url {
+  text-decoration: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
